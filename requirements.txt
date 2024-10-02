@@ -2,4 +2,9 @@ openai==0.28
 dill
 streamlit
 python-dotenv
-PorterStemmer
+nltk
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
